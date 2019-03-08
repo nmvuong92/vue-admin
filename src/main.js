@@ -33,6 +33,7 @@ Object.keys(filters).forEach(key => {
 
 Vue.config.productionTip = false
 
+// wow
 new Vue({
   el: '#app',
   router,
